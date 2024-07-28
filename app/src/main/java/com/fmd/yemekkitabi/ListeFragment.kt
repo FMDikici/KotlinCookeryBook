@@ -8,8 +8,8 @@ import android.view.ViewGroup
 import androidx.navigation.Navigation
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.room.Room
-import com.atilsamancioglu.yemektariflerikitabi.R
-import com.atilsamancioglu.yemektariflerikitabi.databinding.FragmentListeBinding
+import com.fmd.yemekkitabi.R
+import com.fmd.yemekkitabi.databinding.FragmentListeBinding
 import com.fmd.yemekkitabi.adapter.Tarifadapter
 import com.fmd.yemekkitabi.model.tarif
 import com.fmd.yemekkitabi.roomdb.TarifDAO
